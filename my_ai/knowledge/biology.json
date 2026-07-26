@@ -1,0 +1,70 @@
+[
+    {
+        "user_sentences": [
+            "what is a cell",
+            "what are cells",
+            "tell me about cells",
+            "what is the basic unit of life"
+        ],
+        "answers": [
+            "A cell is the basic structural and functional unit of life. Some organisms consist of one cell, while others are made of many cells."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is dna",
+            "what does dna stand for",
+            "what is deoxyribonucleic acid",
+            "tell me about dna"
+        ],
+        "answers": [
+            "DNA stands for deoxyribonucleic acid. It is a molecule that stores genetic information."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is rna",
+            "what does rna stand for",
+            "what is ribonucleic acid",
+            "tell me about rna"
+        ],
+        "answers": [
+            "RNA stands for ribonucleic acid. RNA molecules perform many roles in cells, including helping use genetic information."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is the cell membrane",
+            "what does the cell membrane do",
+            "what is the plasma membrane"
+        ],
+        "answers": [
+            "The cell membrane, also called the plasma membrane, forms the boundary of a cell and helps regulate what enters and leaves the cell."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what are mitochondria",
+            "what is a mitochondrion",
+            "what is the powerhouse of the cell"
+        ],
+        "answers": [
+            "Mitochondria are organelles found in eukaryotic cells and are involved in cellular energy conversion."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what are ribosomes",
+            "what is a ribosome",
+            "what do ribosomes do"
+        ],
+        "answers": [
+            "Ribosomes are cellular structures that help make proteins."
+        ]
+    }
+]

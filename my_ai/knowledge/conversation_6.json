@@ -1,0 +1,235 @@
+[
+    {
+        "user_sentences": [
+            "what is this",
+            "what is that",
+            "what is it",
+            "what does this mean",
+            "what does that mean"
+        ],
+        "answers": [
+            "I can try to explain it. Please tell me the specific subject or word you are asking about."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "can you tell me about something",
+            "tell me about something",
+            "i want to know about something",
+            "i would like to know about something"
+        ],
+        "answers": [
+            "Of course! Tell me the subject you would like to learn about."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "can you explain something",
+            "could you explain something",
+            "please explain something",
+            "i want you to explain something"
+        ],
+        "answers": [
+            "Of course! Tell me what you would like me to explain."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "why does this happen",
+            "why does that happen",
+            "why is this happening",
+            "why is that happening"
+        ],
+        "answers": [
+            "To explain why something happens, I need to identify the specific subject and the cause involved."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "how does this work",
+            "how does that work",
+            "how does it work",
+            "how does something work"
+        ],
+        "answers": [
+            "I can explain how something works by describing its parts, processes, and the way they interact."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "where is it",
+            "where can i find it",
+            "where does it happen",
+            "where is this found"
+        ],
+        "answers": [
+            "The answer depends on the subject. I can try to explain where something is found or happens."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "when did it happen",
+            "when does it happen",
+            "when will it happen",
+            "when was it made"
+        ],
+        "answers": [
+            "I can answer questions about time when I have information about the event or subject."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "who is this",
+            "who is that",
+            "who are they",
+            "who was this person"
+        ],
+        "answers": [
+            "Tell me the name of the person or subject, and I can try to explain who they are."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "which one is correct",
+            "which one should i choose",
+            "which is better",
+            "which one is different"
+        ],
+        "answers": [
+            "I can compare the choices and explain their similarities, differences, advantages, and disadvantages."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "can you answer my question",
+            "will you answer my question",
+            "please answer my question"
+        ],
+        "answers": [
+            "Yes! Ask your question, and I will try my best to answer it."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i want to ask a question",
+            "i have a question for you",
+            "here is my question",
+            "my question is"
+        ],
+        "answers": [
+            "Go ahead! I am ready for your question."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what if",
+            "what would happen if",
+            "what happens if",
+            "suppose that"
+        ],
+        "answers": [
+            "That is a hypothetical question. We can examine what might happen based on the conditions you describe."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "is it true",
+            "is that true",
+            "is this correct",
+            "is this true"
+        ],
+        "answers": [
+            "I can examine the information available to me and explain whether the statement appears to be correct."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "how do you know",
+            "how can you know",
+            "where did you learn that"
+        ],
+        "answers": [
+            "I answer using the information and rules available in my knowledge and program."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "can you prove it",
+            "prove it",
+            "how can you prove that"
+        ],
+        "answers": [
+            "A proof or strong explanation should use evidence, reasoning, observations, or information that supports the conclusion."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is the difference between",
+            "how are these different",
+            "compare these two things"
+        ],
+        "answers": [
+            "I can compare two subjects by examining their characteristics, similarities, and differences."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is the meaning of",
+            "what does the word mean",
+            "what does this word mean",
+            "define this word"
+        ],
+        "answers": [
+            "I can explain a word by giving its meaning, related words, and examples when that information is available."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "can you make a sentence",
+            "make a sentence with this word",
+            "use this word in a sentence"
+        ],
+        "answers": [
+            "Yes! A word can be used in a sentence to show how it functions in context."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is another word for",
+            "give me a synonym",
+            "what is a synonym for this word"
+        ],
+        "answers": [
+            "A synonym is a word or expression with the same or a similar meaning. Tell me the word you want to explore."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is the opposite of",
+            "give me an antonym",
+            "what is an antonym for this word"
+        ],
+        "answers": [
+            "An antonym is a word or expression with an opposite or contrasting meaning."
+        ]
+    }
+]

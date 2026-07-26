@@ -1,0 +1,221 @@
+[
+    {
+        "user_sentences": [
+            "what is the cell cycle",
+            "what happens in the cell cycle",
+            "tell me about the cell cycle"
+        ],
+        "answers": [
+            "The cell cycle is the series of stages through which a cell grows, carries out its functions, duplicates its genetic material, and may divide."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is mitosis",
+            "how does mitosis work",
+            "tell me about mitosis"
+        ],
+        "answers": [
+            "Mitosis is a type of nuclear division in which duplicated genetic material is distributed into two daughter nuclei. It is involved in growth, development, and tissue maintenance in many organisms."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is meiosis",
+            "how does meiosis work",
+            "tell me about meiosis"
+        ],
+        "answers": [
+            "Meiosis is a specialized type of cell division that produces cells with a reduced number of chromosome sets and contributes to genetic variation."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is the difference between mitosis and meiosis",
+            "how are mitosis and meiosis different",
+            "compare mitosis and meiosis"
+        ],
+        "answers": [
+            "Mitosis generally produces daughter cells with the same number of chromosome sets as the original cell, while meiosis reduces the number of chromosome sets and contributes to genetic variation."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a daughter cell",
+            "what are daughter cells",
+            "tell me about daughter cells"
+        ],
+        "answers": [
+            "A daughter cell is a cell produced by the division of another cell."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is cell differentiation",
+            "what does cell differentiation mean",
+            "how do cells become different"
+        ],
+        "answers": [
+            "Cell differentiation is the process through which cells develop specialized structures and functions."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a stem cell",
+            "what are stem cells",
+            "tell me about stem cells"
+        ],
+        "answers": [
+            "A stem cell is a cell that can divide and, depending on its type and biological context, can produce cells with more specialized characteristics."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is reproduction",
+            "what does reproduction mean",
+            "tell me about reproduction in biology"
+        ],
+        "answers": [
+            "Reproduction is the biological process by which organisms produce new organisms."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is asexual reproduction",
+            "what does asexual reproduction mean",
+            "tell me about asexual reproduction"
+        ],
+        "answers": [
+            "Asexual reproduction produces offspring without the fusion of reproductive cells from two parents. The exact process varies among organisms."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is sexual reproduction",
+            "what does sexual reproduction mean",
+            "tell me about sexual reproduction"
+        ],
+        "answers": [
+            "Sexual reproduction involves the combination of genetic material from reproductive cells and can create genetically varied offspring."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is evolution",
+            "what does evolution mean in biology",
+            "tell me about evolution"
+        ],
+        "answers": [
+            "Biological evolution is change in the heritable characteristics of populations over generations."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is natural selection",
+            "how does natural selection work",
+            "tell me about natural selection"
+        ],
+        "answers": [
+            "Natural selection is a process in which heritable differences can influence survival and reproduction, causing some characteristics to become more common in populations over generations."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is adaptation",
+            "what are adaptations",
+            "tell me about adaptations"
+        ],
+        "answers": [
+            "An adaptation is a heritable characteristic or feature that can influence how an organism functions in its environment."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a species",
+            "what are species",
+            "tell me about species"
+        ],
+        "answers": [
+            "A species is a category used to group organisms. Different biological species concepts define the category in different ways."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a population",
+            "what is a biological population",
+            "tell me about populations"
+        ],
+        "answers": [
+            "A biological population is a group of organisms of the same species living in a particular area or connected by a particular biological context."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is an ecosystem",
+            "what are ecosystems",
+            "tell me about ecosystems"
+        ],
+        "answers": [
+            "An ecosystem includes living organisms and the physical environment with which they interact."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a community in biology",
+            "what is a biological community",
+            "tell me about biological communities"
+        ],
+        "answers": [
+            "A biological community is a group of populations of different organisms living and interacting in an area."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a food chain",
+            "what are food chains",
+            "tell me about food chains"
+        ],
+        "answers": [
+            "A food chain is a simplified representation of feeding relationships in which energy and matter move through organisms."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a food web",
+            "what are food webs",
+            "tell me about food webs"
+        ],
+        "answers": [
+            "A food web represents interconnected feeding relationships among organisms in an ecosystem."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is biodiversity",
+            "what does biodiversity mean",
+            "tell me about biodiversity"
+        ],
+        "answers": [
+            "Biodiversity refers to the variety of life, including variation within species, between species, and among ecosystems."
+        ]
+    }
+]

@@ -1,0 +1,169 @@
+[
+    {
+        "user_sentences": [
+            "what are you doing",
+            "what are you doing right now",
+            "what are you up to"
+        ],
+        "answers": [
+            "I am talking with you and searching through the knowledge I have been given.",
+            "I am ready to answer your questions!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "are you smart",
+            "do you think you are smart",
+            "are you intelligent"
+        ],
+        "answers": [
+            "I can answer questions using the knowledge and rules programmed into me, and I can become more capable when my system is improved."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "can you learn",
+            "do you learn",
+            "are you learning"
+        ],
+        "answers": [
+            "I can use information that has been added to my knowledge files. My current program does not automatically learn like a large modern AI model, but my knowledge can be expanded."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what do you know",
+            "what subjects do you know",
+            "what topics can you talk about"
+        ],
+        "answers": [
+            "I can talk about subjects included in my knowledge files, such as biology, grammar, conversation, and other topics that are added to my knowledge."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "can you help me",
+            "will you help me",
+            "help me"
+        ],
+        "answers": [
+            "Yes! Tell me what you need help with, and I will try my best."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i have a question",
+            "can i ask you a question",
+            "may i ask a question"
+        ],
+        "answers": [
+            "Of course! Ask me your question."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i have an idea",
+            "i got an idea",
+            "i have a new idea"
+        ],
+        "answers": [
+            "That sounds interesting! Tell me about your idea."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i made something",
+            "i created something",
+            "i built something"
+        ],
+        "answers": [
+            "That is exciting! Tell me what you created."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i am confused",
+            "i feel confused",
+            "this is confusing"
+        ],
+        "answers": [
+            "That is okay. We can go through the problem step by step."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i made a mistake",
+            "i made an error",
+            "i did something wrong"
+        ],
+        "answers": [
+            "Mistakes can help us find what needs to be corrected. We can look at the problem carefully."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "that is interesting",
+            "this is interesting",
+            "very interesting"
+        ],
+        "answers": [
+            "I agree! There are many fascinating things to learn."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "that is amazing",
+            "this is amazing",
+            "wow"
+        ],
+        "answers": [
+            "It really is amazing!",
+            "Wow indeed!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i want to learn",
+            "teach me",
+            "i want to learn something"
+        ],
+        "answers": [
+            "Excellent! Learning is a great adventure. What would you like to learn about?"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "can you explain",
+            "please explain",
+            "explain this to me"
+        ],
+        "answers": [
+            "Yes! Tell me what you would like explained."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i have finished",
+            "i am done",
+            "we are finished"
+        ],
+        "answers": [
+            "Great job!",
+            "Well done!"
+        ]
+    }
+]

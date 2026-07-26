@@ -1,0 +1,225 @@
+[
+    {
+        "user_sentences": [
+            "what is an organelle",
+            "what are organelles",
+            "tell me about organelles"
+        ],
+        "answers": [
+            "An organelle is a specialized structure inside a cell that performs a particular function. Many organelles are surrounded by membranes, although some are not."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is the endoplasmic reticulum",
+            "what is er",
+            "tell me about the endoplasmic reticulum"
+        ],
+        "answers": [
+            "The endoplasmic reticulum is a network of membranes inside many eukaryotic cells. Rough endoplasmic reticulum has ribosomes and is involved in producing and processing certain proteins, while smooth endoplasmic reticulum has roles including lipid production and other cellular processes."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is rough er",
+            "what is rough endoplasmic reticulum",
+            "what does rough er do"
+        ],
+        "answers": [
+            "Rough endoplasmic reticulum is called 'rough' because ribosomes are attached to its surface. It is involved in the production and processing of many proteins."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is smooth er",
+            "what is smooth endoplasmic reticulum",
+            "what does smooth er do"
+        ],
+        "answers": [
+            "Smooth endoplasmic reticulum lacks ribosomes on its surface and performs functions that can include lipid production and other specialized cellular processes."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is the golgi apparatus",
+            "what is the golgi body",
+            "what does the golgi apparatus do",
+            "tell me about the golgi apparatus"
+        ],
+        "answers": [
+            "The Golgi apparatus is a membrane-bound organelle that modifies, sorts, and packages many molecules, including proteins and lipids, for use inside or outside the cell."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what are lysosomes",
+            "what is a lysosome",
+            "what do lysosomes do",
+            "tell me about lysosomes"
+        ],
+        "answers": [
+            "Lysosomes are membrane-bound organelles containing enzymes that can break down various materials inside cells."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what are peroxisomes",
+            "what is a peroxisome",
+            "what do peroxisomes do"
+        ],
+        "answers": [
+            "Peroxisomes are organelles involved in several metabolic processes, including reactions that help break down certain molecules and manage reactive chemical compounds."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what are vacuoles",
+            "what is a vacuole",
+            "what do vacuoles do",
+            "tell me about vacuoles"
+        ],
+        "answers": [
+            "Vacuoles are membrane-bound compartments that can store water, ions, nutrients, waste products, and other substances. Their functions vary among different organisms and cell types."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is the cytoskeleton",
+            "what does the cytoskeleton do",
+            "tell me about the cytoskeleton"
+        ],
+        "answers": [
+            "The cytoskeleton is a network of protein structures that helps cells maintain shape, organize internal components, move materials, and sometimes move the cell itself."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what are microtubules",
+            "what is a microtubule",
+            "what do microtubules do"
+        ],
+        "answers": [
+            "Microtubules are hollow protein structures that are part of the cytoskeleton. They help with cell structure, transport, movement, and chromosome separation during cell division."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what are microfilaments",
+            "what is a microfilament",
+            "what do microfilaments do"
+        ],
+        "answers": [
+            "Microfilaments are thin protein fibers, mainly made of actin, that help with cell shape, movement, and other cellular processes."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what are intermediate filaments",
+            "what is an intermediate filament",
+            "what do intermediate filaments do"
+        ],
+        "answers": [
+            "Intermediate filaments are protein fibers that help provide mechanical strength and stability to cells."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is the cell wall",
+            "what does a cell wall do",
+            "tell me about cell walls"
+        ],
+        "answers": [
+            "A cell wall is a relatively strong outer layer found in many organisms, including plants, fungi, and bacteria. Its composition and structure vary between groups."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a plant cell",
+            "what makes a plant cell different",
+            "tell me about plant cells"
+        ],
+        "answers": [
+            "Plant cells are eukaryotic cells that typically have features such as a cell wall, a plasma membrane, cytoplasm, a nucleus, and often chloroplasts and a large central vacuole."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is an animal cell",
+            "tell me about animal cells",
+            "what makes an animal cell different"
+        ],
+        "answers": [
+            "Animal cells are eukaryotic cells with a plasma membrane, cytoplasm, a nucleus, and various organelles. Unlike plant cells, they do not have a cellulose cell wall or chloroplasts."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a prokaryotic cell",
+            "what are prokaryotes",
+            "tell me about prokaryotic cells"
+        ],
+        "answers": [
+            "Prokaryotic cells are cells that do not have a nucleus enclosed by a membrane. Bacteria and archaea are prokaryotic organisms."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a eukaryotic cell",
+            "what are eukaryotes",
+            "tell me about eukaryotic cells"
+        ],
+        "answers": [
+            "Eukaryotic cells have genetic material contained within a membrane-bound nucleus and generally contain various membrane-bound organelles."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is the difference between prokaryotic and eukaryotic cells",
+            "how are prokaryotic and eukaryotic cells different",
+            "compare prokaryotic and eukaryotic cells"
+        ],
+        "answers": [
+            "Prokaryotic cells lack a membrane-bound nucleus, while eukaryotic cells have one. Eukaryotic cells also generally have more membrane-bound organelles."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is chloroplast",
+            "what are chloroplasts",
+            "what does a chloroplast do",
+            "tell me about chloroplasts"
+        ],
+        "answers": [
+            "Chloroplasts are organelles found in plants and some other eukaryotic organisms. They are associated with photosynthesis and contain chlorophyll and their own genetic material."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is photosynthesis",
+            "how does photosynthesis work",
+            "what do plants do during photosynthesis"
+        ],
+        "answers": [
+            "Photosynthesis is a set of biological processes through which certain organisms use light energy to help produce organic molecules from carbon dioxide and water, releasing oxygen in oxygenic photosynthesis."
+        ]
+    }
+]
