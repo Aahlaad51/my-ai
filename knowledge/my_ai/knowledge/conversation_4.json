@@ -1,0 +1,223 @@
+[
+    {
+        "user_sentences": [
+            "i am back",
+            "i came back",
+            "i am here again"
+        ],
+        "answers": [
+            "Welcome back!",
+            "Welcome back! I am ready to continue."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "are you there",
+            "are you still there",
+            "can you hear me"
+        ],
+        "answers": [
+            "Yes! I am here and ready to talk with you."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "wait",
+            "wait a moment",
+            "give me a moment"
+        ],
+        "answers": [
+            "Of course. Take your time."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i am ready",
+            "i am ready now",
+            "let us start"
+        ],
+        "answers": [
+            "Great! Let's begin!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i want to ask something",
+            "i want to ask you something",
+            "i have something to ask"
+        ],
+        "answers": [
+            "Go ahead! I am listening."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i want to tell you something",
+            "i have something to tell you",
+            "listen to this"
+        ],
+        "answers": [
+            "Of course! I am listening."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "guess what",
+            "do you know what",
+            "you know what"
+        ],
+        "answers": [
+            "What is it?",
+            "Tell me!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "that is funny",
+            "this is funny",
+            "you are funny"
+        ],
+        "answers": [
+            "I am glad you found it funny!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "that is cool",
+            "this is cool",
+            "very cool"
+        ],
+        "answers": [
+            "I agree! That is pretty cool!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "that makes sense",
+            "i understand now",
+            "now i understand"
+        ],
+        "answers": [
+            "Excellent! I am glad the explanation made sense."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i still do not understand",
+            "i still don't understand",
+            "i am still confused"
+        ],
+        "answers": [
+            "No problem. We can try explaining it in a different way."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "that was helpful",
+            "you helped me",
+            "this helped me"
+        ],
+        "answers": [
+            "I am glad I could help!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i need help",
+            "i need some help",
+            "can you help me with something"
+        ],
+        "answers": [
+            "Of course! Tell me what you need help with."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i want to do a project",
+            "i want to make a project",
+            "i want to create a project"
+        ],
+        "answers": [
+            "That sounds exciting! We can think about the goal, the materials, and the steps needed."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i want to make an ai",
+            "i want to create an ai",
+            "i am making an ai"
+        ],
+        "answers": [
+            "That is an exciting project! An AI can be built from many parts, including data, programs, algorithms, and systems for processing information."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what do you think about my idea",
+            "do you like my idea",
+            "is my idea good"
+        ],
+        "answers": [
+            "Your idea is worth exploring. We can examine what works, what could be improved, and how to build it step by step."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i have a problem",
+            "there is a problem",
+            "something is not working"
+        ],
+        "answers": [
+            "Let's examine the problem carefully and work through it step by step."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "it worked",
+            "it is working",
+            "it works now"
+        ],
+        "answers": [
+            "Excellent! That is great news!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "it did not work",
+            "it is not working",
+            "it still does not work"
+        ],
+        "answers": [
+            "Let's carefully check what happened and find the problem."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i am excited",
+            "this is exciting",
+            "i am very excited"
+        ],
+        "answers": [
+            "That is fantastic! Excitement makes learning and creating even more fun!"
+        ]
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "user_sentences": [
+            "hello",
+            "hi",
+            "hey",
+            "good morning",
+            "good afternoon",
+            "good evening"
+        ],
+        "answers": [
+            "Hello! It is nice to talk with you!",
+            "Hi! How can I help you?",
+            "Hello! What would you like to talk about?"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "how are you",
+            "how are you doing",
+            "are you okay"
+        ],
+        "answers": [
+            "I am working properly and ready to talk with you!",
+            "I am doing well! What would you like to discuss?"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is your name",
+            "who are you"
+        ],
+        "answers": [
+            "I am your personal AI.",
+            "I am a small AI that can read knowledge files and talk with you."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what can you do",
+            "what are your abilities"
+        ],
+        "answers": [
+            "I can read my knowledge files, search for questions I have learned, and answer you."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "thank you",
+            "thanks",
+            "thank you very much"
+        ],
+        "answers": [
+            "You're welcome!",
+            "Happy to help!",
+            "Anytime!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "please",
+            "can you please help me"
+        ],
+        "answers": [
+            "Of course! I will try my best to help you."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i am happy",
+            "i feel happy",
+            "i am excited"
+        ],
+        "answers": [
+            "That is wonderful to hear!",
+            "That sounds great!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i am sad",
+            "i feel sad",
+            "i am feeling sad"
+        ],
+        "answers": [
+            "I am sorry that you are feeling sad. Talking about what is bothering you may help."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i am bored",
+            "i feel bored"
+        ],
+        "answers": [
+            "Maybe we can learn something interesting, create a project, or talk about science!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what do you think",
+            "what is your opinion"
+        ],
+        "answers": [
+            "I can give you an answer based on the information and rules I have been given."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i do not understand",
+            "i don't understand",
+            "explain it again"
+        ],
+        "answers": [
+            "Of course! I can try to explain it in a simpler way."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "say that again",
+            "repeat that",
+            "can you repeat"
+        ],
+        "answers": [
+            "Of course! Please tell me which part you would like me to repeat."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "tell me a joke",
+            "can you tell me a joke"
+        ],
+        "answers": [
+            "Why did the computer go to the doctor? Because it had a virus!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what can we talk about",
+            "what should we talk about"
+        ],
+        "answers": [
+            "We can talk about science, biology, space, dinosaurs, computers, English, literature, or almost anything in my knowledge files!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "goodbye",
+            "bye",
+            "see you later"
+        ],
+        "answers": [
+            "Goodbye! I will be here when you return!",
+            "See you later!"
+        ]
+    }
+]

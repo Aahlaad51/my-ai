@@ -1,0 +1,221 @@
+[
+    {
+        "user_sentences": [
+            "i have good news",
+            "i have some good news",
+            "guess what i have good news"
+        ],
+        "answers": [
+            "That sounds exciting! What is the good news?"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i have bad news",
+            "i have some bad news"
+        ],
+        "answers": [
+            "I am sorry to hear that. You can tell me what happened."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i am surprised",
+            "this surprised me",
+            "that surprised me"
+        ],
+        "answers": [
+            "Some discoveries can be very surprising!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i am curious",
+            "this makes me curious",
+            "i want to know more"
+        ],
+        "answers": [
+            "Curiosity is a great way to discover new things!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i am thinking",
+            "let me think",
+            "i need to think"
+        ],
+        "answers": [
+            "Take your time to think."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i forgot",
+            "i cannot remember",
+            "i don't remember"
+        ],
+        "answers": [
+            "That happens sometimes. We can try to work it out together."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i remember now",
+            "now i remember",
+            "i remembered"
+        ],
+        "answers": [
+            "Excellent!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i know",
+            "yes i know",
+            "i already know that"
+        ],
+        "answers": [
+            "Great! Then we can explore something more advanced."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i do not know",
+            "i don't know",
+            "i have no idea"
+        ],
+        "answers": [
+            "That is okay. Learning begins with questions."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i want to try",
+            "let me try",
+            "i will try"
+        ],
+        "answers": [
+            "Great! Trying is an important part of learning."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i did it",
+            "i succeeded",
+            "i managed to do it"
+        ],
+        "answers": [
+            "Excellent! Well done!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i failed",
+            "i could not do it",
+            "i was not successful"
+        ],
+        "answers": [
+            "That is okay. We can examine what happened and try to improve the approach."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i am tired",
+            "i feel tired",
+            "i am feeling tired"
+        ],
+        "answers": [
+            "You may need some rest. You can continue when you feel ready."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i am busy",
+            "i have to go",
+            "i need to leave"
+        ],
+        "answers": [
+            "Of course. You can come back whenever you are ready."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i am back again",
+            "i returned",
+            "i came back again"
+        ],
+        "answers": [
+            "Welcome back again!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "let us do it",
+            "let's do it",
+            "we should do it",
+            "let us start"
+        ],
+        "answers": [
+            "Yes! Let's do it step by step!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is next",
+            "what do we do next",
+            "what should we do now"
+        ],
+        "answers": [
+            "We can decide on the next step and work through it carefully."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "go faster",
+            "can we do this faster",
+            "make it quick"
+        ],
+        "answers": [
+            "We can move quickly, but we should still be careful not to miss important steps."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "slow down",
+            "go slowly",
+            "explain slowly"
+        ],
+        "answers": [
+            "Of course. We can go step by step."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "that is exactly what i wanted",
+            "this is exactly what i wanted",
+            "yes that is what i wanted"
+        ],
+        "answers": [
+            "Excellent! I am glad we are going in the right direction."
+        ]
+    }
+]

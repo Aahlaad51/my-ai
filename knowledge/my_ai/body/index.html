@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>My AI</title>
+
+
+    <style>
+
+        body {
+
+            margin: 0;
+
+            font-family: Arial, sans-serif;
+
+            background: #111827;
+
+            color: white;
+
+            display: flex;
+
+            justify-content: center;
+
+            align-items: center;
+
+            height: 100vh;
+
+        }
+
+
+        .ai-container {
+
+            width: 90%;
+
+            max-width: 800px;
+
+            height: 90vh;
+
+            background: #1f2937;
+
+            border-radius: 20px;
+
+            display: flex;
+
+            flex-direction: column;
+
+            overflow: hidden;
+
+        }
+
+
+        .header {
+
+            padding: 20px;
+
+            background: #2563eb;
+
+            text-align: center;
+
+            font-size: 24px;
+
+            font-weight: bold;
+
+        }
+
+
+        .chat-box {
+
+            flex: 1;
+
+            padding: 20px;
+
+            overflow-y: auto;
+
+        }
+
+
+        .message {
+
+            padding: 12px 16px;
+
+            margin: 10px 0;
+
+            border-radius: 12px;
+
+            max-width: 75%;
+
+            line-height: 1.5;
+
+        }
+
+
+        .ai-message {
+
+            background: #374151;
+
+            margin-right: auto;
+
+        }
+
+
+        .user-message {
+
+            background: #2563eb;
+
+            margin-left: auto;
+
+        }
+
+
+        .input-area {
+
+            display: flex;
+
+            padding: 15px;
+
+            background: #111827;
+
+            gap: 10px;
+
+        }
+
+
+        input {
+
+            flex: 1;
+
+            padding: 14px;
+
+            border: none;
+
+            border-radius: 10px;
+
+            font-size: 16px;
+
+        }
+
+
+        button {
+
+            padding: 14px 20px;
+
+            border: none;
+
+            border-radius: 10px;
+
+            background: #2563eb;
+
+            color: white;
+
+            font-size: 16px;
+
+            cursor: pointer;
+
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+
+    <div class="ai-container">
+
+
+        <div class="header">
+
+            🤖 My AI
+
+        </div>
+
+
+        <div class="chat-box" id="chatBox">
+
+
+            <div class="message ai-message">
+
+                Hello! I am your AI. Ask me something!
+
+            </div>
+
+
+        </div>
+
+
+        <div class="input-area">
+
+
+            <input
+
+                type="text"
+
+                id="userInput"
+
+                placeholder="Type your message here..."
+
+            >
+
+
+            <button onclick="sendMessage()">
+
+                SEND
+
+            </button>
+
+        </div>
+
+
+    </div>
+
+
+    <script>
+
+
+        async function sendMessage() {
+
+
+            let input = document.getElementById(
+
+                "userInput"
+
+            );
+
+
+            let message = input.value.trim();
+
+
+            if (message === "") {
+
+                return;
+
+            }
+
+
+            let chatBox = document.getElementById(
+
+                "chatBox"
+
+            );
+
+
+            let userMessage = document.createElement(
+
+                "div"
+
+            );
+
+
+            userMessage.className = (
+
+                "message user-message"
+
+            );
+
+
+            userMessage.textContent = message;
+
+
+            chatBox.appendChild(userMessage);
+
+
+            input.value = "";
+
+
+            let aiMessage = document.createElement(
+
+                "div"
+
+            );
+
+
+            aiMessage.className = (
+
+                "message ai-message"
+
+            );
+
+
+            aiMessage.textContent = "Thinking...";
+
+
+            chatBox.appendChild(aiMessage);
+
+
+            try {
+
+
+                let response = await fetch(
+
+                    "/ask",
+
+                    {
+
+
+                        method: "POST",
+
+
+                        headers: {
+
+
+                            "Content-Type":
+
+                                "application/json"
+
+
+                        },
+
+
+                        body: JSON.stringify({
+
+                            message: message
+
+                        })
+
+                    }
+
+                );
+
+
+                let data = await response.json();
+
+
+                aiMessage.textContent = data.answer;
+
+
+            }
+
+
+            catch (error) {
+
+
+                aiMessage.textContent =
+
+                    "I could not connect to my Python brain.";
+
+
+            }
+
+
+            chatBox.scrollTop =
+
+                chatBox.scrollHeight;
+
+        }
+
+
+        document.getElementById(
+
+            "userInput"
+
+        ).addEventListener(
+
+            "keydown",
+
+            function(event) {
+
+
+                if (event.key === "Enter") {
+
+
+                    sendMessage();
+
+
+                }
+
+            }
+
+        );
+
+
+    </script>
+
+
+</body>
+
+</html>
