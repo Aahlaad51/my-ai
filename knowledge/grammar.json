@@ -1,0 +1,111 @@
+[
+    {
+        "user_sentences": [
+            "what is grammar",
+            "what does grammar mean",
+            "tell me about grammar"
+        ],
+        "answers": [
+            "Grammar is the system of rules and patterns used to form words, phrases, clauses, and sentences in a language."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a noun",
+            "what are nouns",
+            "tell me about nouns"
+        ],
+        "answers": [
+            "A noun is a word or expression used to identify a person, place, thing, idea, or other entity."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a pronoun",
+            "what are pronouns",
+            "tell me about pronouns"
+        ],
+        "answers": [
+            "A pronoun is a word that can be used in place of a noun or noun phrase, depending on the language and context."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a verb",
+            "what are verbs",
+            "tell me about verbs"
+        ],
+        "answers": [
+            "A verb is a word that can express an action, event, state, or other situation."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is an adjective",
+            "what are adjectives",
+            "tell me about adjectives"
+        ],
+        "answers": [
+            "An adjective is a word that can describe or modify a noun or noun phrase."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is an adverb",
+            "what are adverbs",
+            "tell me about adverbs"
+        ],
+        "answers": [
+            "An adverb can modify or provide information about a verb, adjective, another adverb, or sometimes a whole sentence."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a sentence",
+            "what are sentences",
+            "tell me about sentences"
+        ],
+        "answers": [
+            "A sentence is a grammatical unit used to express a statement, question, command, exclamation, or another complete communicative function."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a synonym",
+            "what are synonyms",
+            "what are words with similar meanings called"
+        ],
+        "answers": [
+            "Synonyms are words or expressions with the same or similar meanings."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is an antonym",
+            "what are antonyms",
+            "what are words with opposite meanings called"
+        ],
+        "answers": [
+            "Antonyms are words or expressions with opposite or contrasting meanings."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a question",
+            "what are questions",
+            "what is an interrogative sentence"
+        ],
+        "answers": [
+            "A question is an expression used to request information or an answer."
+        ]
+    }
+]

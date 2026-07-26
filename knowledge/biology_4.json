@@ -1,0 +1,232 @@
+[
+    {
+        "user_sentences": [
+            "what is a gene",
+            "what are genes",
+            "tell me about genes"
+        ],
+        "answers": [
+            "A gene is a region of genetic material that contributes to a functional product or biological function. Genes are made of DNA in cellular organisms."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a chromosome",
+            "what are chromosomes",
+            "tell me about chromosomes"
+        ],
+        "answers": [
+            "A chromosome is a structure containing genetic material. In eukaryotic cells, chromosomes are located in the nucleus and consist mainly of DNA associated with proteins."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a genome",
+            "what does genome mean",
+            "tell me about genomes"
+        ],
+        "answers": [
+            "A genome is the complete set of genetic material of an organism, cell, or virus, depending on the context."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a nucleotide",
+            "what are nucleotides",
+            "tell me about nucleotides"
+        ],
+        "answers": [
+            "A nucleotide is a building block of nucleic acids such as DNA and RNA. It contains a nitrogenous base, a sugar, and one or more phosphate groups."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what are the bases in dna",
+            "what are the four dna bases",
+            "name the bases in dna"
+        ],
+        "answers": [
+            "The four common bases in DNA are adenine, thymine, cytosine, and guanine. They are often abbreviated as A, T, C, and G."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what are the bases in rna",
+            "what are the four rna bases",
+            "name the bases in rna"
+        ],
+        "answers": [
+            "The four common bases in RNA are adenine, uracil, cytosine, and guanine. They are often abbreviated as A, U, C, and G."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is dna replication",
+            "how does dna replication work",
+            "what happens during dna replication"
+        ],
+        "answers": [
+            "DNA replication is the process by which a DNA molecule is copied, producing new DNA molecules that contain genetic information."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is transcription in biology",
+            "what is transcription",
+            "how does transcription work"
+        ],
+        "answers": [
+            "In molecular biology, transcription is the process of producing an RNA molecule using information from a DNA template."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is translation in biology",
+            "what is translation",
+            "how does translation work in biology"
+        ],
+        "answers": [
+            "In molecular biology, translation is the process in which information in a messenger RNA molecule is used to help produce a protein."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is messenger rna",
+            "what is mrna",
+            "what does mrna do"
+        ],
+        "answers": [
+            "Messenger RNA, or mRNA, is an RNA molecule that carries genetic information used in the production of proteins."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is transfer rna",
+            "what is trna",
+            "what does trna do"
+        ],
+        "answers": [
+            "Transfer RNA, or tRNA, helps bring amino acids to the molecular machinery involved in protein synthesis."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is ribosomal rna",
+            "what is rrna",
+            "what does rrna do"
+        ],
+        "answers": [
+            "Ribosomal RNA, or rRNA, is a major component of ribosomes and plays important structural and functional roles in protein synthesis."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a codon",
+            "what are codons",
+            "tell me about codons"
+        ],
+        "answers": [
+            "A codon is a sequence of three nucleotides in a nucleic acid sequence that can specify an amino acid or a signal during protein production."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is an anticodon",
+            "what are anticodons",
+            "tell me about anticodons"
+        ],
+        "answers": [
+            "An anticodon is a sequence of nucleotides in a transfer RNA molecule that can pair with a complementary codon in messenger RNA."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a protein",
+            "what are proteins",
+            "tell me about proteins"
+        ],
+        "answers": [
+            "Proteins are biological molecules made from chains of amino acids. They perform many functions, including structural, catalytic, transport, signaling, and regulatory roles."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is an amino acid",
+            "what are amino acids",
+            "tell me about amino acids"
+        ],
+        "answers": [
+            "Amino acids are organic molecules that can join together to form peptides and proteins."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a mutation",
+            "what are mutations",
+            "tell me about mutations"
+        ],
+        "answers": [
+            "A mutation is a change in genetic material. Mutations can have different effects depending on their type, location, and biological context."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a genetic trait",
+            "what are traits",
+            "what is an inherited trait"
+        ],
+        "answers": [
+            "A trait is a characteristic of an organism. Some traits can be influenced by genetic information, while many traits are influenced by both genes and the environment."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is heredity",
+            "what is inheritance in biology",
+            "tell me about heredity"
+        ],
+        "answers": [
+            "Heredity is the transmission of genetic information and characteristics from parents or ancestors to descendants."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is genetic variation",
+            "what causes genetic variation",
+            "tell me about genetic variation"
+        ],
+        "answers": [
+            "Genetic variation refers to differences in genetic material among individuals or populations. It can arise through processes such as mutation, recombination, and the movement of genes between populations."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is gene expression",
+            "what does gene expression mean",
+            "how are genes expressed"
+        ],
+        "answers": [
+            "Gene expression is the process by which information in genetic material is used to produce a functional product, such as an RNA molecule or protein."
+        ]
+    }
+]

@@ -1,0 +1,61 @@
+{
+    "topic": "Cell Structure",
+
+    "subcategories": {
+
+        "DNA": {
+            "other_names": [
+                "Deoxyribonucleic acid"
+            ],
+
+            "information": [
+                "DNA stores genetic information.",
+                "DNA contains instructions used by living organisms.",
+                "DNA is a molecule found in cells."
+            ]
+        },
+
+        "RNA": {
+            "other_names": [
+                "Ribonucleic acid"
+            ],
+
+            "information": [
+                "RNA helps use genetic information.",
+                "Different types of RNA perform different roles in cells."
+            ]
+        },
+
+        "Cell Membrane": {
+            "other_names": [
+                "Plasma membrane"
+            ],
+
+            "information": [
+                "The cell membrane surrounds the cell.",
+                "It helps control what enters and leaves the cell."
+            ]
+        },
+
+        "Mitochondria": {
+            "other_names": [
+                "Mitochondrion"
+            ],
+
+            "information": [
+                "Mitochondria are structures found in many cells.",
+                "They are involved in producing usable energy for the cell."
+            ]
+        },
+
+        "Ribosomes": {
+            "other_names": [
+                "Ribosome"
+            ],
+
+            "information": [
+                "Ribosomes help make proteins."
+            ]
+        }
+    }
+}

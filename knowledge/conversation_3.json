@@ -1,0 +1,197 @@
+[
+    {
+        "user_sentences": [
+            "tell me more",
+            "can you tell me more",
+            "give me more information",
+            "i want more information"
+        ],
+        "answers": [
+            "Of course! I can give more information about the subject."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "explain it simply",
+            "explain this simply",
+            "make it easier",
+            "explain it in an easy way"
+        ],
+        "answers": [
+            "Of course! I will try to explain it using simpler words and an easier explanation."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "explain it in detail",
+            "give me a detailed explanation",
+            "tell me everything about it",
+            "give me more details"
+        ],
+        "answers": [
+            "Of course! I can give a more detailed explanation of the subject."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "give me an example",
+            "can you give an example",
+            "show me an example",
+            "give me some examples"
+        ],
+        "answers": [
+            "Of course! An example can make an idea easier to understand."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "why",
+            "but why",
+            "why is that",
+            "why does that happen"
+        ],
+        "answers": [
+            "That is a good question. The answer depends on the subject and the information I have learned about it."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "how",
+            "how does it work",
+            "how does that happen",
+            "how is it made"
+        ],
+        "answers": [
+            "I can explain how something works if I have information about that subject in my knowledge files."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what do you mean",
+            "what does that mean",
+            "what does this mean",
+            "i do not know what that means"
+        ],
+        "answers": [
+            "I can explain the meaning using simpler words."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "can you give me another example",
+            "give me a different example",
+            "show me another example"
+        ],
+        "answers": [
+            "Of course! I can try to give another example."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "can you compare them",
+            "compare these",
+            "what is the difference",
+            "what is the difference between them"
+        ],
+        "answers": [
+            "I can compare two subjects by looking at their similarities and differences."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is similar",
+            "how are they similar",
+            "what do they have in common"
+        ],
+        "answers": [
+            "To answer that, I would look for the properties or characteristics that the subjects share."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is different",
+            "how are they different",
+            "what makes them different"
+        ],
+        "answers": [
+            "To answer that, I would look for the properties or characteristics that are different between the subjects."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i agree",
+            "yes i agree",
+            "that is true"
+        ],
+        "answers": [
+            "Great! We can continue exploring the subject."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "i disagree",
+            "i do not agree",
+            "that is not true"
+        ],
+        "answers": [
+            "That is okay. We can examine the information and compare the different ideas carefully."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "you are wrong",
+            "that answer is wrong",
+            "you made a mistake"
+        ],
+        "answers": [
+            "Thank you for pointing that out. I should check the information and reconsider my answer."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "are you sure",
+            "is that correct",
+            "is your answer correct"
+        ],
+        "answers": [
+            "I should check the knowledge available to me and be careful before claiming that an answer is certain."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what should i learn next",
+            "what should i learn",
+            "what can i learn next"
+        ],
+        "answers": [
+            "You could learn about a related subject, explore a deeper level of the topic, or choose a completely new subject."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "let us continue",
+            "let's continue",
+            "continue",
+            "go on"
+        ],
+        "answers": [
+            "Sure! Let's continue."
+        ]
+    }
+]

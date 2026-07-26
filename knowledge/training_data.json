@@ -1,0 +1,447 @@
+[
+    {
+        "user_sentences": [
+            "hello",
+            "hi",
+            "hey",
+            "good morning",
+            "good afternoon",
+            "good evening",
+            "how are you",
+            "how are you doing"
+        ],
+        "answers": [
+            "Hello! I am ready to learn and talk with you!",
+            "Hi! What would you like to talk about?",
+            "Hello! My knowledge is growing!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a cell",
+            "what are cells",
+            "tell me about cells",
+            "explain cells",
+            "what is the basic unit of life",
+            "what is the smallest unit of life"
+        ],
+        "answers": [
+            "A cell is the basic structural and functional unit of life. Some organisms consist of a single cell, while others are made of many cells."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is cell biology",
+            "what does cell biology study",
+            "tell me about cell biology",
+            "explain cell biology"
+        ],
+        "answers": [
+            "Cell biology is the study of cells, including their structures, functions, interactions, reproduction, and relationships with other parts of living organisms."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is cell structure",
+            "tell me about cell structure",
+            "what are the parts of a cell",
+            "what structures are found in cells",
+            "explain the structure of a cell"
+        ],
+        "answers": [
+            "Cell structure refers to the parts of a cell and how they are organized. Important structures can include the cell membrane, cytoplasm, genetic material, ribosomes, and various organelles."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is dna",
+            "what does dna stand for",
+            "what is deoxyribonucleic acid",
+            "tell me about dna",
+            "explain dna",
+            "what is the genetic material",
+            "what molecule stores genetic information"
+        ],
+        "answers": [
+            "DNA stands for deoxyribonucleic acid. It is a molecule that stores genetic information in living organisms and many other biological systems."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what does dna do",
+            "what is the function of dna",
+            "what is the job of dna",
+            "why is dna important",
+            "why do organisms need dna"
+        ],
+        "answers": [
+            "DNA stores genetic information and contains information that can help guide the development, functioning, and reproduction of living organisms."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is rna",
+            "what does rna stand for",
+            "what is ribonucleic acid",
+            "tell me about rna",
+            "explain rna"
+        ],
+        "answers": [
+            "RNA stands for ribonucleic acid. RNA molecules have many roles in cells, including helping use genetic information and participating in protein production."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is the cell membrane",
+            "what is a plasma membrane",
+            "tell me about the cell membrane",
+            "what does the cell membrane do",
+            "what is the function of the plasma membrane"
+        ],
+        "answers": [
+            "The cell membrane, also called the plasma membrane, forms the boundary of a cell and helps regulate the movement of substances into and out of the cell."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is cytoplasm",
+            "tell me about cytoplasm",
+            "what is inside a cell",
+            "what is the cytoplasm made of"
+        ],
+        "answers": [
+            "Cytoplasm is the material inside a cell. It includes the cytosol and, in eukaryotic cells, structures suspended within it."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what are mitochondria",
+            "what is a mitochondrion",
+            "tell me about mitochondria",
+            "what does a mitochondrion do",
+            "what is the powerhouse of the cell"
+        ],
+        "answers": [
+            "Mitochondria are organelles found in eukaryotic cells. They are involved in cellular energy conversion and have their own genetic material. The phrase 'powerhouse of the cell' is a simplified description often used for mitochondria."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is the nucleus",
+            "what does the nucleus do",
+            "tell me about the nucleus",
+            "where is genetic material stored in a eukaryotic cell"
+        ],
+        "answers": [
+            "The nucleus is a membrane-bound organelle in eukaryotic cells that contains most of the cell's genetic material."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what are ribosomes",
+            "what is a ribosome",
+            "what do ribosomes do",
+            "what is the function of ribosomes",
+            "tell me about ribosomes"
+        ],
+        "answers": [
+            "Ribosomes are cellular structures that help make proteins by using information carried by RNA."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a gene",
+            "what are genes",
+            "tell me about genes",
+            "what does a gene do",
+            "what is genetic information"
+        ],
+        "answers": [
+            "A gene is a region of genetic material that contributes to a biological function or trait. Genes can provide information for functional products such as proteins or functional RNA molecules."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a chromosome",
+            "what are chromosomes",
+            "tell me about chromosomes",
+            "what do chromosomes contain"
+        ],
+        "answers": [
+            "A chromosome is a structure containing genetic material. In many organisms, chromosomes consist largely of DNA associated with proteins."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a protein",
+            "what are proteins",
+            "tell me about proteins",
+            "what are proteins made of"
+        ],
+        "answers": [
+            "Proteins are molecules made from chains of amino acids. They perform many different functions in living organisms."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is grammar",
+            "what does grammar mean",
+            "tell me about grammar",
+            "what does grammar study"
+        ],
+        "answers": [
+            "Grammar is the system of rules and patterns used to form words, phrases, clauses, and sentences in a language."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a noun",
+            "what are nouns",
+            "tell me about nouns",
+            "explain nouns"
+        ],
+        "answers": [
+            "A noun is a word or expression used to identify a person, place, thing, idea, or other entity."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a pronoun",
+            "what are pronouns",
+            "tell me about pronouns",
+            "explain pronouns"
+        ],
+        "answers": [
+            "A pronoun is a word that can be used in place of a noun or noun phrase, depending on the language and context."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a verb",
+            "what are verbs",
+            "tell me about verbs",
+            "explain verbs"
+        ],
+        "answers": [
+            "A verb is a word that can express an action, event, state, or other situation."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is an adjective",
+            "what are adjectives",
+            "tell me about adjectives",
+            "explain adjectives"
+        ],
+        "answers": [
+            "An adjective is a word that can describe or modify a noun or noun phrase."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is an adverb",
+            "what are adverbs",
+            "tell me about adverbs",
+            "explain adverbs"
+        ],
+        "answers": [
+            "An adverb can modify or provide information about a verb, adjective, another adverb, or sometimes a whole sentence."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a sentence",
+            "what are sentences",
+            "tell me about sentences",
+            "what makes a sentence"
+        ],
+        "answers": [
+            "A sentence is a grammatical unit used to express a statement, question, command, exclamation, or another complete communicative function."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a synonym",
+            "what are synonyms",
+            "tell me about synonyms",
+            "what are words with similar meanings called"
+        ],
+        "answers": [
+            "Synonyms are words or expressions with the same or similar meanings."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is an antonym",
+            "what are antonyms",
+            "tell me about antonyms",
+            "what are words with opposite meanings called"
+        ],
+        "answers": [
+            "Antonyms are words or expressions with opposite or contrasting meanings."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is vocabulary",
+            "what does vocabulary mean",
+            "tell me about vocabulary",
+            "what are vocabulary words"
+        ],
+        "answers": [
+            "Vocabulary is the collection of words and expressions used or understood by a person, language, subject, or field."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is english literature",
+            "what does english literature include",
+            "tell me about english literature",
+            "explain english literature"
+        ],
+        "answers": [
+            "English literature includes literary works written in English. It includes forms such as poetry, drama, novels, short stories, essays, and other kinds of writing."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is poetry",
+            "what is a poem",
+            "tell me about poetry",
+            "what are poems"
+        ],
+        "answers": [
+            "Poetry is a form of literature that uses language in artistic and often highly structured ways. Poems may use rhythm, imagery, sound, figurative language, and other techniques."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a novel",
+            "what are novels",
+            "tell me about novels",
+            "explain novels"
+        ],
+        "answers": [
+            "A novel is a long work of prose fiction that usually contains characters, events, settings, and a developing narrative."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a short story",
+            "what are short stories",
+            "tell me about short stories"
+        ],
+        "answers": [
+            "A short story is a relatively brief work of fiction. It usually focuses on a limited number of characters, events, or central ideas."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a character in literature",
+            "what is a literary character",
+            "tell me about characters in stories"
+        ],
+        "answers": [
+            "A character is a person, animal, being, or other entity that participates in a literary work."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a setting",
+            "what is setting in literature",
+            "tell me about setting in a story"
+        ],
+        "answers": [
+            "The setting of a literary work is the time, place, and surrounding circumstances in which its events occur."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a plot",
+            "what is plot in literature",
+            "tell me about plot",
+            "what happens in a plot"
+        ],
+        "answers": [
+            "A plot is the connected sequence of events that forms the action or development of a story."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a metaphor",
+            "what are metaphors",
+            "tell me about metaphors",
+            "explain metaphor"
+        ],
+        "answers": [
+            "A metaphor is a figure of speech in which one thing is presented as or understood through another, often to create a comparison or deeper meaning."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "what is a simile",
+            "what are similes",
+            "tell me about similes",
+            "explain simile"
+        ],
+        "answers": [
+            "A simile is a comparison between different things, often using words such as 'like' or 'as' in English."
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "thank you",
+            "thanks",
+            "thank you very much"
+        ],
+        "answers": [
+            "You're welcome!",
+            "Happy to help!"
+        ]
+    },
+
+    {
+        "user_sentences": [
+            "goodbye",
+            "bye",
+            "see you later"
+        ],
+        "answers": [
+            "Goodbye!"
+        ]
+    }
+]
